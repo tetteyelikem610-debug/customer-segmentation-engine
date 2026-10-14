@@ -2,6 +2,8 @@
 
 A machine learning web app that groups customers into segments using **RFM analysis** (Recency, Frequency, Monetary) and **K-Means clustering**, built with Python, scikit-learn and Streamlit.
 
+🚀 **[Try the live app](https://customer-segmentation-enginedemo.streamlit.app/)**
+
 ## Overview
 
 Businesses cannot treat every customer the same. This project analyses purchase history and automatically divides customers into behavioural segments, so each group can be targeted with the right marketing action (rewards, win-back offers, onboarding and so on).
